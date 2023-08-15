@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @varunikulkarni
 - 👀 I’m interested in Coding and learn about various aspects of it.
-- 🌱 I’m currently learning Python and R Programming
+- 🌱 I’m currently learning tools and technologies related to Data Science.
 - 📫 How to reach me: via varunikulkarni20@gmail.com 
 
 <!---
